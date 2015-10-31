@@ -11,8 +11,8 @@
   This is a log util depends on [orhanobut](https://github.com/orhanobut/logger)
   
   **Attention**
-    > You should ```L.init();``` before you use L to print log.
-    And you can ```L.init("TAG");``` to init your TAG;
+  > You should ```L.init();``` before you use L to print log.
+  And you can ```L.init("TAG");``` to init your TAG;
     
 ------------
 

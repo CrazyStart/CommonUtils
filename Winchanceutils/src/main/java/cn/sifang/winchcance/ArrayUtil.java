@@ -28,7 +28,7 @@ import java.util.Arrays;
 public final class ArrayUtil {
 
     /**
-     * 获取数组的纬度
+     * 获取数组纬度
      */
     public static int getArrayDimension(Object objects) {
         int dim = 0;
